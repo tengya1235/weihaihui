@@ -1,0 +1,38 @@
+<div class="shopping" >
+	<header>
+		<h1>购物车</h1>
+		<span action-type='switch' class="shop_s">编辑</span>
+	</header>
+	
+	<section>
+		<ul>
+			<li>
+				<img src="/weihaihui/img/n1.png"  />
+				<p>丢失及的时间发货的恢复快的话放大师傅偶分局哦</p>
+				<span>
+					¥<em>1111</em>
+					<div>
+					<img src="/weihaihui/img/cart_sub1.png"  />
+					 <p>1</p>
+					<img src="/weihaihui/img/cart_add.png"  /> 
+					</div>
+				</span>
+			</li>
+		</ul>
+	</section>
+	
+	<footer>
+		<div>
+			<span>全选</span>
+			<dl>
+				<dt class="shopping_dt">
+					<em>合计:<a href="javascript:;">¥ 0.00</a> </em>
+					<b>不含运费</b>
+				</dt>
+				<dd>
+					<b class="shop_b">结算</b>
+				</dd>
+			</dl>
+		</div>
+	</footer>
+</div>

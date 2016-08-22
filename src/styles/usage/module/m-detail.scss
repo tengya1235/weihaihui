@@ -1,0 +1,28 @@
+header{
+  width:100%;
+  position: relative;
+  img{
+    width:100%;
+  }
+  .swiper-pagination{
+    background: #fff;
+  }
+  .swiper-pagination-bullet-active{
+    background:#4acda0
+  }
+}
+section{
+  width:100%;
+  margin-top:.15rem;
+
+  h2{
+    padding:0 10%;
+    text-align: center;
+    font-size:20px;
+    line-height: 30px;
+    height:.6rem;
+    color:#333;
+    font-weight: normal;
+    @include ellipsis(2);
+  }
+}

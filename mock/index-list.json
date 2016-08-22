@@ -1,0 +1,895 @@
+{
+    "data": [
+        {
+            "goods_id": "25867",
+            "cat_id": "1129",
+            "market_price": "0",
+            "shop_price": "137.00",
+            "goods_number": "2698",
+            "goods_thumb": "http://vseaimage.img-cn-hangzhou.aliyuncs.com/goods/2016/06/29/3722fe3e9fd0e6e14cb1b33de34a9779.jpg",
+            "goods_img": "goods/2016/06/29/0051a0025e823d539a5c2849759b106a.jpg",
+            "original_img": "goods/2016/06/29/01c46ec9d411c62c306b11eb41fe2908.jpg",
+            "sales_volume": "399",
+            "shop_id": "1355",
+            "f_money": "0.00",
+            "goods_brief": "",
+            "event_id": "0",
+            "event_type": 0,
+            "good_active": [
+                {
+                    "status": 1
+                }
+            ],
+            "goods_url": "http://m.vsea.com.cn/goods/25867.html",
+            "shopname": "振东",
+            "cityname": "盐城",
+            "event_price": 0,
+            "shop_name": "振东",
+            "name": "【振东】精品首乌粉[特制礼品盒]4瓶x8",
+            "city": "",
+            "activeType": 0
+        },
+        {
+            "goods_id": "25850",
+            "cat_id": "1114",
+            "market_price": "0",
+            "shop_price": "168.00",
+            "goods_number": "3689",
+            "goods_thumb": "http://vseaimage.img-cn-hangzhou.aliyuncs.com/goods/2016/07/01/43f57814e1e16f7a910d03ecd9a2493a.jpg",
+            "goods_img": "goods/2016/07/01/d3fa1444640c7016690d4ed5f14fa453.jpg",
+            "original_img": "goods/2016/07/01/d602b3c7a98a377c0f6a24fa15f3341f.jpg",
+            "sales_volume": "3539",
+            "shop_id": "1353",
+            "f_money": "0.00",
+            "goods_brief": "黑珍珠7月中旬上市， 现在预定可包邮",
+            "event_id": "0",
+            "event_type": 0,
+            "good_active": [
+                {
+                    "status": 1
+                }
+            ],
+            "goods_url": "http://m.vsea.com.cn/goods/25850.html",
+            "shopname": "华南",
+            "cityname": "邵阳",
+            "event_price": 0,
+            "shop_name": "华南",
+            "name": "【华南】黑珍珠 10斤 无核葡萄 鲜鲜水",
+            "city": "",
+            "activeType": 0
+        },
+        {
+            "goods_id": "25825",
+            "cat_id": "1114",
+            "market_price": "0",
+            "shop_price": "268.00",
+            "goods_number": "16329",
+            "goods_thumb": "http://vseaimage.img-cn-hangzhou.aliyuncs.com/goods/2016/06/28/2d7bb5eb5801b4cde2858da19ffaea23.jpg",
+            "goods_img": "goods/2016/06/28/d84d18b036078c1972c776eb29c9d964.jpg",
+            "original_img": "goods/2016/06/28/7a66bdcc73c5fad8a78bcfa84056a73f.jpg",
+            "sales_volume": "358",
+            "shop_id": "1351",
+            "f_money": "0.30",
+            "goods_brief": "单果重1-1.5斤以上",
+            "event_id": "0",
+            "event_type": 0,
+            "good_active": [
+                {
+                    "status": 1
+                }
+            ],
+            "goods_url": "http://m.vsea.com.cn/goods/25825.html",
+            "shopname": "会理",
+            "cityname": "凉山",
+            "event_price": 0,
+            "shop_name": "会理",
+            "name": "【会理石榴】小米地水晶软籽石榴 20斤装",
+            "city": "",
+            "activeType": 0
+        },
+        {
+            "goods_id": "25808",
+            "cat_id": "1103",
+            "market_price": "0",
+            "shop_price": "16.00",
+            "goods_number": "6566",
+            "goods_thumb": "http://vseaimage.img-cn-hangzhou.aliyuncs.com/goods/2016/06/28/76963f7c2b61c68fc669b35f2d91e5ab.jpg",
+            "goods_img": "goods/2016/06/28/600238ba00ad1235a974afbca631aeaf.jpg",
+            "original_img": "goods/2016/06/28/1147d6b5e0b734e4930c3a63abfb612b.jpg",
+            "sales_volume": "3038",
+            "shop_id": "229",
+            "f_money": "0.00",
+            "goods_brief": "",
+            "event_id": "0",
+            "event_type": 0,
+            "good_active": [
+                {
+                    "status": 1
+                }
+            ],
+            "goods_url": "http://m.vsea.com.cn/goods/25808.html",
+            "shopname": "老朋友",
+            "cityname": "杭州",
+            "event_price": 0,
+            "shop_name": "老朋友",
+            "name": "老朋友 香糯坊 新品上市 600g/12",
+            "city": "",
+            "activeType": 0
+        },
+        {
+            "goods_id": "25806",
+            "cat_id": "1108",
+            "market_price": "0",
+            "shop_price": "99.00",
+            "goods_number": "2789",
+            "goods_thumb": "http://vseaimage.img-cn-hangzhou.aliyuncs.com/goods/2016/07/18/4c13b7f802f1e42d60cf2b83ee8e6024.jpg",
+            "goods_img": "goods/2016/07/18/60608a79cb7bb68cb3a67904db4090d1.jpg",
+            "original_img": "goods/2016/07/18/6b833920b4a52273ec640b5492d308ab.jpg",
+            "sales_volume": "333",
+            "shop_id": "484",
+            "f_money": "0.00",
+            "goods_brief": "杰勒德庄园限量纪念版干红葡萄酒",
+            "event_id": "0",
+            "event_type": 0,
+            "good_active": [
+                {
+                    "status": 1
+                }
+            ],
+            "goods_url": "http://m.vsea.com.cn/goods/25806.html",
+            "shopname": "小雨",
+            "cityname": "嘉兴",
+            "event_price": 0,
+            "shop_name": "小雨",
+            "name": "原装进口杰勒德庄园限量纪念版干红葡萄酒（",
+            "city": "",
+            "activeType": 0
+        },
+        {
+            "goods_id": "25796",
+            "cat_id": "1137",
+            "market_price": "0",
+            "shop_price": "63.00",
+            "goods_number": "6129",
+            "goods_thumb": "http://vseaimage.img-cn-hangzhou.aliyuncs.com/goods/2016/06/27/2982e40439ed545c3eab9fd089b9b205.jpg",
+            "goods_img": "goods/2016/06/27/47c2690dc872943ac96ec5d5a14f8d04.jpg",
+            "original_img": "goods/2016/06/27/631a7bdd4ac9ba9c233d637e5f843a25.jpg",
+            "sales_volume": "3871",
+            "shop_id": "1210",
+            "f_money": "0.00",
+            "goods_brief": "两斤以上包邮，偏远地区除外！",
+            "event_id": "0",
+            "event_type": 0,
+            "good_active": [
+                {
+                    "status": 1
+                }
+            ],
+            "goods_url": "http://m.vsea.com.cn/goods/25796.html",
+            "shopname": "恒旭",
+            "cityname": "淮安",
+            "event_price": 0,
+            "shop_name": "恒旭",
+            "name": "【红富贵】盱眙龙虾 秘制虾球 500g/",
+            "city": "",
+            "activeType": 0
+        },
+        {
+            "goods_id": "25757",
+            "cat_id": "1118",
+            "market_price": "0",
+            "shop_price": "25.00",
+            "goods_number": "8536",
+            "goods_thumb": "http://vseaimage.img-cn-hangzhou.aliyuncs.com/goods/2016/06/24/e307cc5c4bfad5bfdaf10453bc3660bc.jpg",
+            "goods_img": "goods/2016/06/24/56e3307aa3391e92ece99cb55354ff76.jpg",
+            "original_img": "goods/2016/06/24/9baed321587e573d10f323c634232a62.jpg",
+            "sales_volume": "464",
+            "shop_id": "1338",
+            "f_money": "0.00",
+            "goods_brief": "江浙沪 满4件包邮",
+            "event_id": "0",
+            "event_type": 0,
+            "good_active": [
+                {
+                    "status": 1
+                }
+            ],
+            "goods_url": "http://m.vsea.com.cn/goods/25757.html",
+            "shopname": "嘉嘉",
+            "cityname": "杭州",
+            "event_price": 0,
+            "shop_name": "嘉嘉",
+            "name": "【嘉嘉农庄】野生石笋干",
+            "city": "",
+            "activeType": 0
+        },
+        {
+            "goods_id": "25746",
+            "cat_id": "1104",
+            "market_price": "0",
+            "shop_price": "23.00",
+            "goods_number": "3601",
+            "goods_thumb": "http://vseaimage.img-cn-hangzhou.aliyuncs.com/goods/2016/06/24/42f7e497f836399bd4601f7ba6be1f31.jpg",
+            "goods_img": "goods/2016/06/24/b73dd5175d1e41f16da7378d1b17da79.jpg",
+            "original_img": "goods/2016/06/24/0a26e30d34731c3d430b6eefed10bf18.jpg",
+            "sales_volume": "399",
+            "shop_id": "1338",
+            "f_money": "0.00",
+            "goods_brief": "江浙沪 满4件包邮",
+            "event_id": "0",
+            "event_type": 0,
+            "good_active": [
+                {
+                    "status": 1
+                }
+            ],
+            "goods_url": "http://m.vsea.com.cn/goods/25746.html",
+            "shopname": "嘉嘉",
+            "cityname": "杭州",
+            "event_price": 0,
+            "shop_name": "嘉嘉",
+            "name": "【嘉嘉农庄】肉馅豆腐干十手工微干",
+            "city": "",
+            "activeType": 0
+        },
+        {
+            "goods_id": "25692",
+            "cat_id": "1134",
+            "market_price": "0",
+            "shop_price": "69.90",
+            "goods_number": "6804",
+            "goods_thumb": "http://vseaimage.img-cn-hangzhou.aliyuncs.com/goods/2016/06/22/2039c03bd1ee2cd66d36c37ac32cf71d.jpg",
+            "goods_img": "goods/2016/06/22/68f6fe2dc7fa5f5e28afe16a9d346e69.jpg",
+            "original_img": "goods/2016/06/22/949c569cce8e2f52f2146014d06e5fd3.jpg",
+            "sales_volume": "226",
+            "shop_id": "1299",
+            "f_money": "0.00",
+            "goods_brief": "满100元包邮，请联系客服！",
+            "event_id": "0",
+            "event_type": 0,
+            "good_active": [
+                {
+                    "status": 1
+                }
+            ],
+            "goods_url": "http://m.vsea.com.cn/goods/25692.html",
+            "shopname": "邬成海",
+            "cityname": "宁波",
+            "event_price": 0,
+            "shop_name": "邬成海",
+            "name": "【邬成海水产】新鲜白蛤+蟹糊两瓶 海鲜组",
+            "city": "",
+            "activeType": 0
+        },
+        {
+            "goods_id": "25651",
+            "cat_id": "1119",
+            "market_price": "0",
+            "shop_price": "50.00",
+            "goods_number": "5101",
+            "goods_thumb": "http://vseaimage.img-cn-hangzhou.aliyuncs.com/goods/2016/06/21/2eb025d1769e6b57cefbbf5feb82f6b6.jpg",
+            "goods_img": "goods/2016/06/21/df870fbac38cb237662b6e202040392a.jpg",
+            "original_img": "goods/2016/06/21/1ff7bda14c0c3f2dda299266461f1538.jpg",
+            "sales_volume": "199",
+            "shop_id": "1326",
+            "f_money": "0.00",
+            "goods_brief": "",
+            "event_id": "0",
+            "event_type": 0,
+            "good_active": [
+                {
+                    "status": 1
+                }
+            ],
+            "goods_url": "http://m.vsea.com.cn/goods/25651.html",
+            "shopname": "富硒",
+            "cityname": "邯郸",
+            "event_price": 0,
+            "shop_name": "富硒",
+            "name": "【邯郸富硒】黑小麦石磨全粉 2.5kg/",
+            "city": "",
+            "activeType": 0
+        },
+        {
+            "goods_id": "25633",
+            "cat_id": "1129",
+            "market_price": "0",
+            "shop_price": "58.00",
+            "goods_number": "6015",
+            "goods_thumb": "http://vseaimage.img-cn-hangzhou.aliyuncs.com/goods/2016/06/20/c5591ac31c4b3f60d7ba02faf80d77cc.jpg",
+            "goods_img": "goods/2016/06/20/d69e3cf6b6f84c3f2d79c295815d41e3.jpg",
+            "original_img": "goods/2016/06/20/9684e5f07b24e037eaa29702cc511cfc.jpg",
+            "sales_volume": "520",
+            "shop_id": "818",
+            "f_money": "0.00",
+            "goods_brief": "",
+            "event_id": "1235",
+            "event_type": 0,
+            "good_active": [
+                {
+                    "type": 1,
+                    "price": "40.60",
+                    "status": 1,
+                    "url": "http://m.vsea.com.cn/goods/25633.html"
+                }
+            ],
+            "goods_url": "http://m.vsea.com.cn/goods/25633.html",
+            "shopname": "康盎",
+            "cityname": "北京",
+            "event_price": 0,
+            "shop_name": "康盎",
+            "name": "【康盎】500新疆若羌灰枣 红枣",
+            "city": "",
+            "activeType": 0
+        },
+        {
+            "goods_id": "25561",
+            "cat_id": "1124",
+            "market_price": "0",
+            "shop_price": "69.00",
+            "goods_number": "9906",
+            "goods_thumb": "http://vseaimage.img-cn-hangzhou.aliyuncs.com/goods/2016/06/16/128ebe99f63a463ac90c937916592a76.jpg",
+            "goods_img": "goods/2016/06/16/6895aadf64cf6cecb380e2b52965777d.jpg",
+            "original_img": "goods/2016/06/16/7449cbffc8f4dfffb301307c5a38ab57.jpg",
+            "sales_volume": "193",
+            "shop_id": "1304",
+            "f_money": "0.00",
+            "goods_brief": "",
+            "event_id": "0",
+            "event_type": 0,
+            "good_active": [
+                {
+                    "type": 1,
+                    "price": "44.50",
+                    "status": 1,
+                    "url": "http://m.vsea.com.cn/goods/25561.html"
+                }
+            ],
+            "goods_url": "http://m.vsea.com.cn/goods/25561.html",
+            "shopname": "茹园",
+            "cityname": "永州",
+            "event_price": 0,
+            "shop_name": "茹园",
+            "name": "【茹园农庄】生态散养乌鸡蛋30个/盒",
+            "city": "",
+            "activeType": 0
+        },
+        {
+            "goods_id": "25522",
+            "cat_id": "1099",
+            "market_price": "0",
+            "shop_price": "13.80",
+            "goods_number": "3162",
+            "goods_thumb": "http://vseaimage.img-cn-hangzhou.aliyuncs.com/goods/2016/06/14/12b1b326a87eded36dff1a18fc480340.jpg",
+            "goods_img": "goods/2016/06/14/a49df86aabd732960c112214d016098d.jpg",
+            "original_img": "goods/2016/06/14/a008097412e96e3fcd366ee1c1ca17f0.jpg",
+            "sales_volume": "354",
+            "shop_id": "1297",
+            "f_money": "0.00",
+            "goods_brief": "",
+            "event_id": "1000",
+            "event_type": 0,
+            "good_active": [
+                {
+                    "type": 1,
+                    "price": "9.94",
+                    "status": 1,
+                    "url": "http://m.vsea.com.cn/goods/25522.html"
+                }
+            ],
+            "goods_url": "http://m.vsea.com.cn/goods/25522.html",
+            "shopname": "梦醒",
+            "cityname": "上海",
+            "event_price": 0,
+            "shop_name": "梦醒",
+            "name": "【梦醒时分】 80g/盒 汐旺奶油味酥饼",
+            "city": "",
+            "activeType": 0
+        },
+        {
+            "goods_id": "25384",
+            "cat_id": "1107",
+            "market_price": "0",
+            "shop_price": "130.00",
+            "goods_number": "8767",
+            "goods_thumb": "http://vseaimage.img-cn-hangzhou.aliyuncs.com/goods/2016/07/07/ed2087d7e133674884ee2ad1e5d225e8.jpg",
+            "goods_img": "goods/2016/07/07/0b984f7cb171840299868d6964457589.jpg",
+            "original_img": "goods/2016/07/07/498367018c107b4c1026d6f07279dac9.jpg",
+            "sales_volume": "332",
+            "shop_id": "1273",
+            "f_money": "0.00",
+            "goods_brief": "",
+            "event_id": "0",
+            "event_type": 0,
+            "good_active": [
+                {
+                    "status": 1
+                }
+            ],
+            "goods_url": "http://m.vsea.com.cn/goods/25384.html",
+            "shopname": "安吉",
+            "cityname": "湖州",
+            "event_price": 0,
+            "shop_name": "安吉",
+            "name": "【安吉金彪茶业】安吉白茶三级 （铁盒装）",
+            "city": "",
+            "activeType": 0
+        },
+        {
+            "goods_id": "25343",
+            "cat_id": "1102",
+            "market_price": "0",
+            "shop_price": "40.00",
+            "goods_number": "9629",
+            "goods_thumb": "http://vseaimage.img-cn-hangzhou.aliyuncs.com/goods/2016/06/06/27ababd46ca659ba5a0cd53f64cb28eb.jpg",
+            "goods_img": "goods/2016/06/06/4bda4ca57f5dc0b595019edadeec93b7.jpg",
+            "original_img": "goods/2016/06/06/15b94b1cec60999ac3134504c8f54930.jpg",
+            "sales_volume": "371",
+            "shop_id": "1265",
+            "f_money": "0.00",
+            "goods_brief": "",
+            "event_id": "0",
+            "event_type": 0,
+            "good_active": [
+                {
+                    "type": 1,
+                    "price": "39.90",
+                    "status": 1,
+                    "url": "http://m.vsea.com.cn/goods/25343.html"
+                }
+            ],
+            "goods_url": "http://m.vsea.com.cn/goods/25343.html",
+            "shopname": "一勺美丽",
+            "cityname": "拉萨",
+            "event_price": 0,
+            "shop_name": "一勺美丽",
+            "name": "【一勺美丽】西藏雪域牦牛肉五香手撕 98",
+            "city": "",
+            "activeType": 0
+        },
+        {
+            "goods_id": "25310",
+            "cat_id": "1100",
+            "market_price": "0",
+            "shop_price": "6.30",
+            "goods_number": "9437",
+            "goods_thumb": "http://vseaimage.img-cn-hangzhou.aliyuncs.com/goods/2016/06/04/244ca6415bae90f6828703d2593eb728.jpg",
+            "goods_img": "goods/2016/06/04/91e995391c6dc9259b11fbbaaeb57ecc.jpg",
+            "original_img": "goods/2016/06/04/ee150692a382f6af97a504e0edd29c59.jpg",
+            "sales_volume": "266",
+            "shop_id": "1259",
+            "f_money": "0.00",
+            "goods_brief": "",
+            "event_id": "0",
+            "event_type": 0,
+            "good_active": [
+                {
+                    "status": 1
+                }
+            ],
+            "goods_url": "http://m.vsea.com.cn/goods/25310.html",
+            "shopname": "憨果果",
+            "cityname": "遂宁",
+            "event_price": 0,
+            "shop_name": "憨果果",
+            "name": "【憨果果】卤味花生160g",
+            "city": "",
+            "activeType": 0
+        },
+        {
+            "goods_id": "25252",
+            "cat_id": "1109",
+            "market_price": "0",
+            "shop_price": "60.00",
+            "goods_number": "7860",
+            "goods_thumb": "http://vseaimage.img-cn-hangzhou.aliyuncs.com/goods/2016/06/01/7d74fd85e77c4808021c72d3944710b4.jpg",
+            "goods_img": "goods/2016/06/01/dda04457341d2b8be58d775cc9201e2b.jpg",
+            "original_img": "goods/2016/06/01/746656d2682be55013f7996f0ea60d1b.jpg",
+            "sales_volume": "331",
+            "shop_id": "1247",
+            "f_money": "0.00",
+            "goods_brief": "52度 浓香型    全国包邮",
+            "event_id": "0",
+            "event_type": 0,
+            "good_active": [
+                {
+                    "status": 1
+                }
+            ],
+            "goods_url": "http://m.vsea.com.cn/goods/25252.html",
+            "shopname": "伍佰",
+            "cityname": "成都",
+            "event_price": 0,
+            "shop_name": "伍佰",
+            "name": "【伍佰窖坊】散装白酒 泸州老窖（窖龄15",
+            "city": "",
+            "activeType": 0
+        },
+        {
+            "goods_id": "25187",
+            "cat_id": "1127",
+            "market_price": "0",
+            "shop_price": "228.00",
+            "goods_number": "5805",
+            "goods_thumb": "http://vseaimage.img-cn-hangzhou.aliyuncs.com/goods/2016/06/04/6320d77f55e95dc322e4821b44de0cf7.jpg",
+            "goods_img": "goods/2016/06/04/1ec396b57275ff65f6ed97f6bf34c2cb.jpg",
+            "original_img": "goods/2016/06/04/75051368b70d9945d2e003f6fee6735f.jpg",
+            "sales_volume": "196",
+            "shop_id": "1233",
+            "f_money": "0.00",
+            "goods_brief": "",
+            "event_id": "0",
+            "event_type": 0,
+            "good_active": [
+                {
+                    "status": 1
+                }
+            ],
+            "goods_url": "http://m.vsea.com.cn/goods/25187.html",
+            "shopname": "翠山鸡",
+            "cityname": "曲靖",
+            "event_price": 0,
+            "shop_name": "翠山鸡",
+            "name": "【曲靖翠山鸡】苗家土阉鸡1只 农家散养精",
+            "city": "",
+            "activeType": 0
+        },
+        {
+            "goods_id": "25163",
+            "cat_id": "1124",
+            "market_price": "0",
+            "shop_price": "50.00",
+            "goods_number": "2722",
+            "goods_thumb": "http://vseaimage.img-cn-hangzhou.aliyuncs.com/goods/2016/05/28/5c3f448097c1ab361c5f7de668fffaa2.jpg",
+            "goods_img": "goods/2016/05/28/20096ca9877528a23adb705239a612fb.jpg",
+            "original_img": "goods/2016/05/28/7961a58c79284fa1d9d43a7dbcf73b2c.jpg",
+            "sales_volume": "279",
+            "shop_id": "1231",
+            "f_money": "0.00",
+            "goods_brief": "60克至70克  原价60元",
+            "event_id": "0",
+            "event_type": 0,
+            "good_active": [
+                {
+                    "status": 1
+                }
+            ],
+            "goods_url": "http://m.vsea.com.cn/goods/25163.html",
+            "shopname": "鑫溪",
+            "cityname": "宜春",
+            "event_price": 0,
+            "shop_name": "鑫溪",
+            "name": "【老俵土特产】无铅溏心松花皮蛋 20枚",
+            "city": "",
+            "activeType": 0
+        },
+        {
+            "goods_id": "25067",
+            "cat_id": "1137",
+            "market_price": "0",
+            "shop_price": "144.00",
+            "goods_number": "3908",
+            "goods_thumb": "http://vseaimage.img-cn-hangzhou.aliyuncs.com/goods/2016/05/26/f031e87c1ec230c169327b1fe485fd06.jpg",
+            "goods_img": "goods/2016/05/26/3f824117d178eb8cd72435bc657ed211.jpg",
+            "original_img": "goods/2016/05/26/c9090fe84b6881c0d977e726235e8fae.jpg",
+            "sales_volume": "114",
+            "shop_id": "1210",
+            "f_money": "0.00",
+            "goods_brief": "温馨提示： 原价~136元 活动价~11",
+            "event_id": "728",
+            "event_type": 0,
+            "good_active": [
+                {
+                    "type": 3,
+                    "status": 1,
+                    "price": 0
+                }
+            ],
+            "goods_url": "http://m.vsea.com.cn/goods/25067.html",
+            "shopname": "恒旭",
+            "cityname": "淮安",
+            "event_price": 0,
+            "shop_name": "恒旭",
+            "name": "正宗盱眙红富贵 十三香小龙虾 1kg/箱",
+            "city": "",
+            "activeType": 0
+        },
+        {
+            "goods_id": "24955",
+            "cat_id": "1135",
+            "market_price": "0",
+            "shop_price": "779.00",
+            "goods_number": "3000",
+            "goods_thumb": "http://vseaimage.img-cn-hangzhou.aliyuncs.com/goods/2016/05/20/5e3a5ef18fbc7fe3defa9fea2aa75c05.jpg",
+            "goods_img": "goods/2016/05/20/f78a24abccb4ac5a8e0dc81c526445de.jpg",
+            "original_img": "goods/2016/05/20/9645d7b720c20770df7cff49cb517bb0.jpg",
+            "sales_volume": "93",
+            "shop_id": "1192",
+            "f_money": "0.00",
+            "goods_brief": "养殖八年的甲鱼重3.5～4.0斤",
+            "event_id": "0",
+            "event_type": 0,
+            "good_active": [
+                {
+                    "status": 1
+                }
+            ],
+            "goods_url": "http://m.vsea.com.cn/goods/24955.html",
+            "shopname": "林昌",
+            "cityname": "成都",
+            "event_price": 0,
+            "shop_name": "林昌",
+            "name": "【邛州甲鱼】仿生态养殖八年大甲鱼",
+            "city": "",
+            "activeType": 0
+        },
+        {
+            "goods_id": "24920",
+            "cat_id": "1104",
+            "market_price": "0",
+            "shop_price": "8.00",
+            "goods_number": "9125",
+            "goods_thumb": "http://vseaimage.img-cn-hangzhou.aliyuncs.com/goods/2016/05/19/94fc2d72deaec97fd39bdbeedd9d93ed.jpg",
+            "goods_img": "goods/2016/05/19/f1accdd0cec6ba5c0fa56c568abb8e15.jpg",
+            "original_img": "goods/2016/05/19/28fa7f8ab7109f2cde75d94be8b51e4f.jpg",
+            "sales_volume": "281",
+            "shop_id": "1186",
+            "f_money": "0.00",
+            "goods_brief": "",
+            "event_id": "0",
+            "event_type": 0,
+            "good_active": [
+                {
+                    "status": 1
+                }
+            ],
+            "goods_url": "http://m.vsea.com.cn/goods/24920.html",
+            "shopname": "美味食品",
+            "cityname": "岳阳",
+            "event_price": 0,
+            "shop_name": "美味食品",
+            "name": "长寿人家280克湖南特产小包装五香酱干 ",
+            "city": "",
+            "activeType": 0
+        },
+        {
+            "goods_id": "24708",
+            "cat_id": "1118",
+            "market_price": "0",
+            "shop_price": "140.00",
+            "goods_number": "9901",
+            "goods_thumb": "http://vseaimage.img-cn-hangzhou.aliyuncs.com/goods/2016/05/13/ef8622bff74ebe96aef657a6e562eb6e.jpg",
+            "goods_img": "goods/2016/05/13/0579b126bc96f2eaed0f27afbcc14af5.jpg",
+            "original_img": "goods/2016/05/13/59d358b6b9c5aa398e3ab5eac40e24c0.jpg",
+            "sales_volume": "198",
+            "shop_id": "1140",
+            "f_money": "0.00",
+            "goods_brief": "",
+            "event_id": "0",
+            "event_type": 0,
+            "good_active": [
+                {
+                    "status": 1
+                }
+            ],
+            "goods_url": "http://m.vsea.com.cn/goods/24708.html",
+            "shopname": "芳草地",
+            "cityname": "保山",
+            "event_price": 0,
+            "shop_name": "芳草地",
+            "name": "【芳草地】保鲜干巴菌 300g  全国包",
+            "city": "",
+            "activeType": 0
+        },
+        {
+            "goods_id": "24661",
+            "cat_id": "1129",
+            "market_price": "0",
+            "shop_price": "36.00",
+            "goods_number": "9908",
+            "goods_thumb": "http://vseaimage.img-cn-hangzhou.aliyuncs.com/goods/2016/05/12/14119d5b50bf6e07bdb310ef6b1e6ade.jpg",
+            "goods_img": "goods/2016/05/12/2a9b759d23db670aa2e2925ba9a5d62a.jpg",
+            "original_img": "goods/2016/05/12/c8b8f5cca82222672ce7ff30a5e5752c.jpg",
+            "sales_volume": "191",
+            "shop_id": "1140",
+            "f_money": "0.00",
+            "goods_brief": "",
+            "event_id": "0",
+            "event_type": 0,
+            "good_active": [
+                {
+                    "status": 1
+                }
+            ],
+            "goods_url": "http://m.vsea.com.cn/goods/24661.html",
+            "shopname": "芳草地",
+            "cityname": "保山",
+            "event_price": 0,
+            "shop_name": "芳草地",
+            "name": "【芳草地】何首乌丁 300g  全国包邮",
+            "city": "",
+            "activeType": 0
+        },
+        {
+            "goods_id": "24638",
+            "cat_id": "1107",
+            "market_price": "0",
+            "shop_price": "198.00",
+            "goods_number": "4691",
+            "goods_thumb": "http://vseaimage.img-cn-hangzhou.aliyuncs.com/goods/2016/05/11/12c7209dddb43acaccb1bc3a28d4571e.jpg",
+            "goods_img": "goods/2016/05/11/46e72d9c32739e7ab186fddf28522bf1.jpg",
+            "original_img": "goods/2016/05/11/0c62472d30d8a803d3b19a43093ea60f.jpg",
+            "sales_volume": "309",
+            "shop_id": "835",
+            "f_money": "0.00",
+            "goods_brief": "",
+            "event_id": "0",
+            "event_type": 0,
+            "good_active": [
+                {
+                    "status": 1
+                }
+            ],
+            "goods_url": "http://m.vsea.com.cn/goods/24638.html",
+            "shopname": "东道夫",
+            "cityname": "杭州",
+            "event_price": 0,
+            "shop_name": "东道夫",
+            "name": "【东道夫】2016新茶 正宗西湖龙井 明",
+            "city": "",
+            "activeType": 0
+        },
+        {
+            "goods_id": "24509",
+            "cat_id": "1109",
+            "market_price": "0",
+            "shop_price": "288.00",
+            "goods_number": "4761",
+            "goods_thumb": "http://vseaimage.img-cn-hangzhou.aliyuncs.com/goods/2016/05/05/046dbbfaf8d5cc3a9ecf042e7e8a180d.jpg",
+            "goods_img": "goods/2016/05/05/661a3a1cf36ef5f39f67a132d68a0015.jpg",
+            "original_img": "goods/2016/05/05/d4c5c57d5325d6f388b78e3cefc404cc.jpg",
+            "sales_volume": "239",
+            "shop_id": "1118",
+            "f_money": "0.20",
+            "goods_brief": "原价：378元/瓶  现价：288元/瓶",
+            "event_id": "0",
+            "event_type": 0,
+            "good_active": [
+                {
+                    "status": 1
+                }
+            ],
+            "goods_url": "http://m.vsea.com.cn/goods/24509.html",
+            "shopname": "国煮坊",
+            "cityname": "贵阳",
+            "event_price": 0,
+            "shop_name": "国煮坊",
+            "name": "酒语连锁 壶天下陈酿五星 500ML/瓶",
+            "city": "",
+            "activeType": 0
+        },
+        {
+            "goods_id": "23979",
+            "cat_id": "1118",
+            "market_price": "0",
+            "shop_price": "15.00",
+            "goods_number": "10000",
+            "goods_thumb": "http://vseaimage.img-cn-hangzhou.aliyuncs.com/goods/2016/04/14/878fcb0a95e2ad61b28f08a779021bee.jpg",
+            "goods_img": "goods/2016/04/14/ab957a632ba364106c52b55bc1e1aded.jpg",
+            "original_img": "goods/2016/04/14/7a2f82eee56c4d009304bb2b01e1d608.jpg",
+            "sales_volume": "100",
+            "shop_id": "1063",
+            "f_money": "0.00",
+            "goods_brief": "500g 散装称重",
+            "event_id": "0",
+            "event_type": 0,
+            "good_active": [
+                {
+                    "type": 1,
+                    "price": "7.20",
+                    "status": 1,
+                    "url": "http://m.vsea.com.cn/goods/23979.html"
+                }
+            ],
+            "goods_url": "http://m.vsea.com.cn/goods/23979.html",
+            "shopname": "创惠",
+            "cityname": "安庆",
+            "event_price": 0,
+            "shop_name": "创惠",
+            "name": "【创惠农产品】 优质绿豆粉丝豆类粉丝营养",
+            "city": "",
+            "activeType": 0
+        },
+        {
+            "goods_id": "23900",
+            "cat_id": "1114",
+            "market_price": "0",
+            "shop_price": "35.00",
+            "goods_number": "32798",
+            "goods_thumb": "http://vseaimage.img-cn-hangzhou.aliyuncs.com/goods/2016/04/12/227c5faf4034ef36a06f55eebe47501e.jpg",
+            "goods_img": "goods/2016/04/12/bd25cc35d7141d65707eb17628f14824.jpg",
+            "original_img": "goods/2016/04/12/2a99fbe80c5ae9843bf1ebd7040bcbb6.jpg",
+            "sales_volume": "193",
+            "shop_id": "631",
+            "f_money": "0.00",
+            "goods_brief": "",
+            "event_id": "0",
+            "event_type": 0,
+            "good_active": [
+                {
+                    "type": 2,
+                    "status": 1
+                }
+            ],
+            "goods_url": "http://m.vsea.com.cn/goods/23900.html",
+            "shopname": "郭丽农",
+            "cityname": "杭州",
+            "event_price": 0,
+            "shop_name": "郭丽农",
+            "name": "【郭丽农】新鲜 优质 圣女果 8斤装",
+            "city": "",
+            "activeType": 0
+        },
+        {
+            "goods_id": "23868",
+            "cat_id": "1120",
+            "market_price": "0",
+            "shop_price": "4.90",
+            "goods_number": "19998",
+            "goods_thumb": "http://vseaimage.img-cn-hangzhou.aliyuncs.com/goods/2016/04/11/ed28b329e2dc4ea5e3aca16b30446bb6.jpg",
+            "goods_img": "goods/2016/04/11/a6eb59a724829e37279c442073a13867.jpg",
+            "original_img": "goods/2016/04/11/0fec25920666d72f5b0f7f39aa85ff52.jpg",
+            "sales_volume": "102",
+            "shop_id": "739",
+            "f_money": "0.00",
+            "goods_brief": "",
+            "event_id": "0",
+            "event_type": 0,
+            "good_active": [
+                {
+                    "status": 1
+                }
+            ],
+            "goods_url": "http://m.vsea.com.cn/goods/23868.html",
+            "shopname": "新厨",
+            "cityname": "泰州",
+            "event_price": 0,
+            "shop_name": "新厨",
+            "name": "【新厨食品】调味 瓶装五香粉厨房必备调味",
+            "city": "",
+            "activeType": 0
+        },
+        {
+            "goods_id": "23679",
+            "cat_id": "1118",
+            "market_price": "0",
+            "shop_price": "10.00",
+            "goods_number": "79",
+            "goods_thumb": "http://vseaimage.img-cn-hangzhou.aliyuncs.com/goods/2016/03/31/c0beebb9b481ede84add3c1f6b231b25.jpg",
+            "goods_img": "goods/2016/03/31/a72c4cc968fc664b0f5fde7e79ec43f3.jpg",
+            "original_img": "goods/2016/03/31/aa6bad7a3868f5a434ddef718a08ad08.jpg",
+            "sales_volume": "21",
+            "shop_id": "1013",
+            "f_money": "0.00",
+            "goods_brief": "",
+            "event_id": "0",
+            "event_type": 0,
+            "good_active": [
+                {
+                    "status": 1
+                }
+            ],
+            "goods_url": "http://m.vsea.com.cn/goods/23679.html",
+            "shopname": "美雅",
+            "cityname": "温州",
+            "event_price": 0,
+            "shop_name": "美雅",
+            "name": "康丝汇 纯番薯粉丝400g/袋 韩式粉丝",
+            "city": "",
+            "activeType": 0
+        }
+    ],
+    "status": 1,
+    "message": "获取成功",
+    "error_code": 1
+}

@@ -1,0 +1,25 @@
+<div id="zc_contanier">
+  <header>全部分类</header>
+  <div spa-widget="scroll" data-scroll-id="myScroll">
+    <div class="content" >
+      <div class="banner"  ms-repeat-el="livelist" >
+        <div action-type="upDown">
+          <img ms-src="el.imgUrl" action-type='branch'/>
+          <img src="/weihaihui/imgList/type_arrow_select.png" alt="" />
+        </div>
+        <dl ms-repeat-ul="el.itemList">
+          <dt>
+            <img ms-src="ul.titleImgUrl" alt="" />
+          </dt>
+          <dd>
+            <ul >
+              <li ms-repeat-li="ul.subItemList">
+                <img ms-src="li.imgUrl" alt="" />
+              </li>
+            </ul>
+          </dd>
+        </dl>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,83 @@
+<header class="home-head">
+    <i></i>
+    <span>首页</span>
+    <i class='yo-ico'>&#xe64b;</i>
+</header>
+<div spa-widget="scroll" data-scroll-id="myScroll" class="home-main">
+
+  <div class="scroll-area">
+    <div class="head">
+          <img src="/weihaihui/img2/arrow.png"/>
+          <span>松开立即刷新...</span>
+    </div>
+    <div class="swiper-container">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide">
+              <img src="http://static.vsea.com.cn/ad/2016/08/10/1470787864404399.jpg" />
+            </div>
+            <div class="swiper-slide">
+              <img src="http://static.vsea.com.cn/ad/2016/07/20/1468975461645364.jpg" />
+            </div>
+            <div class="swiper-slide">
+              <img src="http://static.vsea.com.cn/ad/2016/07/26/1469496506669921.jpg" />
+            </div>
+            <div class="swiper-slide">
+              <img src="http://static.vsea.com.cn/ad/2016/08/17/1471428280794852.jpg" />
+            </div>
+        </div>
+        <!-- 如果需要分页器 -->
+        <div class="swiper-pagination"></div>
+    </div>
+    <ul class="category">
+      <li ms-repeat-el="livelist" action-type='goto.list'>
+        <div>
+          <img ms-src="el.ad_code" />
+          <p ms-text="el.ad_name"></p>
+        </div>
+      </li>
+    </ul>
+
+    <ul class="speclist">
+        <li ms-repeat-el="adlist" action-type="goto.detail"><img ms-src="el.ad_code"/></li>
+    </ul>
+    <div class="super-title">
+      <div>
+        <span>超级品牌</span>
+      </div>
+    </div>
+    <ul class="brandlist">
+      <li ms-repeat-el="brandlist" action-type="goto.detail"><img ms-src="el.ad_code"/></li>
+    </ul>
+    <div class="super-title">
+      <div>
+        <span>区域特色</span>
+      </div>
+    </div>
+    <ul class="actlist">
+      <li ms-repeat-el="actlist" action-type="goto.detail"><img ms-src="el.ad_code"/></li>
+    </ul>
+    <div class="super-title">
+      <div>
+        <span>热销商品</span>
+      </div>
+    </div>
+    <ul class="hotlist">
+      <li  ms-repeat-el="hotlist" action-type="goto.detail">
+        <div class="hot-pic">
+          <img ms-src="el.goods_thumb"/>
+          <div></div>
+        </div>
+        <div class="hot-msg">
+          <span ms-text="el.shop_name"></span>
+          <p ms-text="el.name"></p>
+          <i>¥<span ms-text="el.shop_price"><span></i>
+        </div>
+      </li>
+    </ul>
+  <div class="foot">
+    <img src="/weihaihui/img2/arrow.png"/>
+    <span>上拉加载更多...</span>
+  </div>
+  </div>
+
+</div>

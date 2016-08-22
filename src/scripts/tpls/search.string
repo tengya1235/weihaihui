@@ -1,0 +1,42 @@
+<div class="cont">
+<header class="search_h">
+    乡情馆
+</header>
+
+
+<section spa-widget="scroll" data-scroll-id="myScroll" class="cky_head">
+  <div id="scroller">
+  <!--加上啦刷新-->
+  		<div class="head_s" >
+		  <img src="/weihaihui/img/loading.png"  />
+          <span>下拉刷新...</span>
+        </div>
+	<h1>
+		<img src="/weihaihui/img/cky2.jpg" alt="主题图片"  />
+	</h1>
+
+	<div class="title">
+		<p>
+			<span>乡土风情</span>
+		</p>
+	</div>
+
+	<!--图片列表-->
+	<ul id="sec_ul">
+		<li ms-repeat-el="livelist">
+			<img src="/weihaihui/img/cky1.jpg" />
+			<p ms-text="el.shopname"></p>
+		</li>		
+	</ul>
+  <!--下拉刷新-->
+ 		 <div class="foot_s" >
+			<img src="/weihaihui/img/loading.png"  />
+            <span>上拉加载更多...</span>
+          </div>
+        
+  </div>
+</section>
+
+
+
+</div>

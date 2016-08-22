@@ -1,0 +1,18 @@
+
+
+<header class="swiper-container" id="header_swiper">
+    <div class="swiper-wrapper">
+        <img class="swiper-slide" src="/weihaihui/imgList/detail.jpg" alt="" />
+        <img class="swiper-slide" src="/weihaihui/imgList/detail.jpg" alt="" />
+        <img class="swiper-slide" src="/weihaihui/imgList/detail.jpg" alt="" />
+        <img class="swiper-slide" src="/weihaihui/imgList/detail.jpg" alt="" />
+        <img class="swiper-slide" src="/weihaihui/imgList/detail.jpg" alt="" />
+    </div>
+    <!-- 如果需要分页器 -->
+    <div class="swiper-pagination"></div>
+</header>
+<section>
+  <h2>太子洞老豆腐太子洞老豆腐太子洞老豆腐太子洞老豆腐太子洞老豆腐</h2>
+  <p>¥<i>26.80</i></p>
+</section>
+<footer></footer>

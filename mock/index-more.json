@@ -1,0 +1,185 @@
+{
+    "data": [
+        {
+            "goods_id": "24661",
+            "cat_id": "1129",
+            "market_price": "0",
+            "shop_price": "36.00",
+            "goods_number": "9908",
+            "goods_thumb": "http://vseaimage.img-cn-hangzhou.aliyuncs.com/goods/2016/05/12/14119d5b50bf6e07bdb310ef6b1e6ade.jpg",
+            "goods_img": "goods/2016/05/12/2a9b759d23db670aa2e2925ba9a5d62a.jpg",
+            "original_img": "goods/2016/05/12/c8b8f5cca82222672ce7ff30a5e5752c.jpg",
+            "sales_volume": "191",
+            "shop_id": "1140",
+            "f_money": "0.00",
+            "goods_brief": "",
+            "event_id": "0",
+            "event_type": 0,
+            "good_active": [
+                {
+                    "status": 1
+                }
+            ],
+            "goods_url": "http://m.vsea.com.cn/goods/24661.html",
+            "shopname": "芳草地",
+            "cityname": "保山",
+            "event_price": 0,
+            "shop_name": "芳草地",
+            "name": "【芳草地】何首乌丁 300g  全国包邮",
+            "city": "",
+            "activeType": 0
+        },
+        {
+            "goods_id": "24638",
+            "cat_id": "1107",
+            "market_price": "0",
+            "shop_price": "198.00",
+            "goods_number": "4691",
+            "goods_thumb": "http://vseaimage.img-cn-hangzhou.aliyuncs.com/goods/2016/05/11/12c7209dddb43acaccb1bc3a28d4571e.jpg",
+            "goods_img": "goods/2016/05/11/46e72d9c32739e7ab186fddf28522bf1.jpg",
+            "original_img": "goods/2016/05/11/0c62472d30d8a803d3b19a43093ea60f.jpg",
+            "sales_volume": "309",
+            "shop_id": "835",
+            "f_money": "0.00",
+            "goods_brief": "",
+            "event_id": "0",
+            "event_type": 0,
+            "good_active": [
+                {
+                    "status": 1
+                }
+            ],
+            "goods_url": "http://m.vsea.com.cn/goods/24638.html",
+            "shopname": "东道夫",
+            "cityname": "杭州",
+            "event_price": 0,
+            "shop_name": "东道夫",
+            "name": "【东道夫】2016新茶 正宗西湖龙井 明",
+            "city": "",
+            "activeType": 0
+        },
+        {
+            "goods_id": "24509",
+            "cat_id": "1109",
+            "market_price": "0",
+            "shop_price": "288.00",
+            "goods_number": "4761",
+            "goods_thumb": "http://vseaimage.img-cn-hangzhou.aliyuncs.com/goods/2016/05/05/046dbbfaf8d5cc3a9ecf042e7e8a180d.jpg",
+            "goods_img": "goods/2016/05/05/661a3a1cf36ef5f39f67a132d68a0015.jpg",
+            "original_img": "goods/2016/05/05/d4c5c57d5325d6f388b78e3cefc404cc.jpg",
+            "sales_volume": "239",
+            "shop_id": "1118",
+            "f_money": "0.20",
+            "goods_brief": "原价：378元/瓶  现价：288元/瓶",
+            "event_id": "0",
+            "event_type": 0,
+            "good_active": [
+                {
+                    "status": 1
+                }
+            ],
+            "goods_url": "http://m.vsea.com.cn/goods/24509.html",
+            "shopname": "国煮坊",
+            "cityname": "贵阳",
+            "event_price": 0,
+            "shop_name": "国煮坊",
+            "name": "酒语连锁 壶天下陈酿五星 500ML/瓶",
+            "city": "",
+            "activeType": 0
+        },
+        {
+            "goods_id": "23979",
+            "cat_id": "1118",
+            "market_price": "0",
+            "shop_price": "15.00",
+            "goods_number": "10000",
+            "goods_thumb": "http://vseaimage.img-cn-hangzhou.aliyuncs.com/goods/2016/04/14/878fcb0a95e2ad61b28f08a779021bee.jpg",
+            "goods_img": "goods/2016/04/14/ab957a632ba364106c52b55bc1e1aded.jpg",
+            "original_img": "goods/2016/04/14/7a2f82eee56c4d009304bb2b01e1d608.jpg",
+            "sales_volume": "100",
+            "shop_id": "1063",
+            "f_money": "0.00",
+            "goods_brief": "500g 散装称重",
+            "event_id": "0",
+            "event_type": 0,
+            "good_active": [
+                {
+                    "type": 1,
+                    "price": "7.20",
+                    "status": 1,
+                    "url": "http://m.vsea.com.cn/goods/23979.html"
+                }
+            ],
+            "goods_url": "http://m.vsea.com.cn/goods/23979.html",
+            "shopname": "创惠",
+            "cityname": "安庆",
+            "event_price": 0,
+            "shop_name": "创惠",
+            "name": "【创惠农产品】 优质绿豆粉丝豆类粉丝营养",
+            "city": "",
+            "activeType": 0
+        },
+        {
+            "goods_id": "23900",
+            "cat_id": "1114",
+            "market_price": "0",
+            "shop_price": "35.00",
+            "goods_number": "32798",
+            "goods_thumb": "http://vseaimage.img-cn-hangzhou.aliyuncs.com/goods/2016/04/12/227c5faf4034ef36a06f55eebe47501e.jpg",
+            "goods_img": "goods/2016/04/12/bd25cc35d7141d65707eb17628f14824.jpg",
+            "original_img": "goods/2016/04/12/2a99fbe80c5ae9843bf1ebd7040bcbb6.jpg",
+            "sales_volume": "193",
+            "shop_id": "631",
+            "f_money": "0.00",
+            "goods_brief": "",
+            "event_id": "0",
+            "event_type": 0,
+            "good_active": [
+                {
+                    "type": 2,
+                    "status": 1
+                }
+            ],
+            "goods_url": "http://m.vsea.com.cn/goods/23900.html",
+            "shopname": "郭丽农",
+            "cityname": "杭州",
+            "event_price": 0,
+            "shop_name": "郭丽农",
+            "name": "【郭丽农】新鲜 优质 圣女果 8斤装",
+            "city": "",
+            "activeType": 0
+        },
+        {
+            "goods_id": "23868",
+            "cat_id": "1120",
+            "market_price": "0",
+            "shop_price": "4.90",
+            "goods_number": "19998",
+            "goods_thumb": "http://vseaimage.img-cn-hangzhou.aliyuncs.com/goods/2016/04/11/ed28b329e2dc4ea5e3aca16b30446bb6.jpg",
+            "goods_img": "goods/2016/04/11/a6eb59a724829e37279c442073a13867.jpg",
+            "original_img": "goods/2016/04/11/0fec25920666d72f5b0f7f39aa85ff52.jpg",
+            "sales_volume": "102",
+            "shop_id": "739",
+            "f_money": "0.00",
+            "goods_brief": "",
+            "event_id": "0",
+            "event_type": 0,
+            "good_active": [
+                {
+                    "status": 1
+                }
+            ],
+            "goods_url": "http://m.vsea.com.cn/goods/23868.html",
+            "shopname": "新厨",
+            "cityname": "泰州",
+            "event_price": 0,
+            "shop_name": "新厨",
+            "name": "【新厨食品】调味 瓶装五香粉厨房必备调味",
+            "city": "",
+            "activeType": 0
+        }
+    ],
+    "status": 1,
+    "message": "获取成功",
+    "error_code": 1
+}

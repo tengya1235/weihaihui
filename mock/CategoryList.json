@@ -1,0 +1,520 @@
+{
+    "status": 1,
+    "data": [
+        {
+            "id": "1141",
+            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/03/31/1459417059522035.jpg",
+            "itemList": [
+                {
+                    "title": "休闲食品",
+                    "id": "1098",
+                    "titleImgUrl": "http://static.vsea.com.cn/shop_logo/2016/03/31/1459417384981552.png",
+                    "subItemList": [
+                        {
+                            "id": "1099",
+                            "title": "进口零食",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/04/06/1459906080821278.jpg"
+                        },
+                        {
+                            "id": "1100",
+                            "title": "坚果炒货",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/03/31/1459417966806593.jpg"
+                        },
+                        {
+                            "id": "1101",
+                            "title": "蜜饯果脯",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/03/31/1459417991270256.jpg"
+                        },
+                        {
+                            "id": "1102",
+                            "title": "肉干肉脯",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/03/31/1459417999690325.jpg"
+                        },
+                        {
+                            "id": "1103",
+                            "title": "糕点糖果",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/03/31/1459417958965989.jpg"
+                        },
+                        {
+                            "id": "1104",
+                            "title": "其他食品",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/03/31/1459418210491514.jpg"
+                        }
+                    ]
+                },
+                {
+                    "title": "茶酒饮料",
+                    "id": "1105",
+                    "titleImgUrl": "http://static.vsea.com.cn/shop_logo/2016/03/31/1459417699774649.png",
+                    "subItemList": [
+                        {
+                            "id": "1106",
+                            "title": "养生茶",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/03/31/1459418419842868.jpg"
+                        },
+                        {
+                            "id": "1107",
+                            "title": "茗茶类",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/03/31/1459418427759260.jpg"
+                        },
+                        {
+                            "id": "1108",
+                            "title": "进口红酒",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/03/31/1459418405613599.jpg"
+                        },
+                        {
+                            "id": "1109",
+                            "title": "酒水类",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/03/31/1459418396632523.jpg"
+                        },
+                        {
+                            "id": "1110",
+                            "title": "养生酒",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/03/31/1459418388319904.jpg"
+                        },
+                        {
+                            "id": "1111",
+                            "title": "饮料类",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/03/31/1459418412200393.jpg"
+                        }
+                    ]
+                },
+                {
+                    "title": "蔬菜水果",
+                    "id": "1112",
+                    "titleImgUrl": "http://static.vsea.com.cn/shop_logo/2016/04/06/1459906685365810.png",
+                    "subItemList": [
+                        {
+                            "id": "1113",
+                            "title": "新鲜蔬菜",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/03/31/1459418267125949.jpg"
+                        },
+                        {
+                            "id": "1114",
+                            "title": "国产水果",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/04/11/1460354608615741.jpg"
+                        },
+                        {
+                            "id": "1115",
+                            "title": "进口水果",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/04/11/1460354528676453.jpg"
+                        }
+                    ]
+                },
+                {
+                    "title": "粮油米面",
+                    "id": "1116",
+                    "titleImgUrl": "http://static.vsea.com.cn/shop_logo/2016/03/31/1459417708493411.png",
+                    "subItemList": [
+                        {
+                            "id": "1117",
+                            "title": "食用油",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/03/31/1459418503370897.jpg"
+                        },
+                        {
+                            "id": "1118",
+                            "title": "南北干货",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/03/31/1459418462592726.jpg"
+                        },
+                        {
+                            "id": "1119",
+                            "title": "米面杂粮",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/03/31/1459418455939464.jpg"
+                        },
+                        {
+                            "id": "1120",
+                            "title": "调味品",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/03/31/1459418509477996.jpg"
+                        }
+                    ]
+                },
+                {
+                    "title": "肉禽蛋类",
+                    "id": "1121",
+                    "titleImgUrl": "http://static.vsea.com.cn/shop_logo/2016/03/31/1459417372854180.png",
+                    "subItemList": [
+                        {
+                            "id": "1122",
+                            "title": "猪肉",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/03/31/1459417806231732.jpg"
+                        },
+                        {
+                            "id": "1123",
+                            "title": "牛羊肉",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/03/31/1459417772152906.jpg"
+                        },
+                        {
+                            "id": "1124",
+                            "title": "蛋类",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/03/31/1459417789827918.jpg"
+                        },
+                        {
+                            "id": "1125",
+                            "title": "熟食腊味",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/03/31/1459417798721243.jpg"
+                        },
+                        {
+                            "id": "1126",
+                            "title": "肉禽蛋礼盒",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/03/31/1459417815742872.jpg"
+                        },
+                        {
+                            "id": "1127",
+                            "title": "其他产品",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/03/31/1459417782423044.jpg"
+                        }
+                    ]
+                },
+                {
+                    "title": "滋补养生",
+                    "id": "1128",
+                    "titleImgUrl": "http://static.vsea.com.cn/shop_logo/2016/03/31/1459417673627538.png",
+                    "subItemList": [
+                        {
+                            "id": "1129",
+                            "title": "滋补品",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/03/31/1459418290581645.jpg"
+                        },
+                        {
+                            "id": "1130",
+                            "title": "养生品",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/03/31/1459418307622722.jpg"
+                        },
+                        {
+                            "id": "1131",
+                            "title": "保健品",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/03/31/1459418299205914.jpg"
+                        }
+                    ]
+                },
+                {
+                    "title": "海鲜水产",
+                    "id": "1132",
+                    "titleImgUrl": "http://static.vsea.com.cn/shop_logo/2016/03/31/1459417715122100.png",
+                    "subItemList": [
+                        {
+                            "id": "1133",
+                            "title": "大闸蟹",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/03/31/1459418572587255.jpg"
+                        },
+                        {
+                            "id": "1134",
+                            "title": "海鲜",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/03/31/1459418554185817.jpg"
+                        },
+                        {
+                            "id": "1135",
+                            "title": "淡水鱼类",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/03/31/1459418547763954.jpg"
+                        },
+                        {
+                            "id": "1136",
+                            "title": "水产礼盒",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/03/31/1459418579142706.jpg"
+                        },
+                        {
+                            "id": "1137",
+                            "title": "其他水产",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/03/31/1459418563476820.jpg"
+                        }
+                    ]
+                },
+                {
+                    "title": "工艺品",
+                    "id": "1138",
+                    "titleImgUrl": "http://static.vsea.com.cn/shop_logo/2016/03/31/1459417687598418.png",
+                    "subItemList": [
+                        {
+                            "id": "1139",
+                            "title": "现代工艺",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/03/31/1459418331813791.jpg"
+                        },
+                        {
+                            "id": "1140",
+                            "title": "传统工艺",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/03/31/1459418338401971.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1145",
+            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/04/19/1461037056877548.jpg",
+            "itemList": [
+                {
+                    "title": "男装",
+                    "id": "1146",
+                    "titleImgUrl": "http://static.vsea.com.cn/shop_logo/2016/04/18/1460971997709710.png",
+                    "subItemList": [
+                        {
+                            "id": "1153",
+                            "title": "男士上衣",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/04/19/1461036672179083.jpg"
+                        },
+                        {
+                            "id": "1154",
+                            "title": "男士裤子",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/04/19/1461036690496544.jpg"
+                        },
+                        {
+                            "id": "1155",
+                            "title": "男士内衣",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/04/19/1461036579395555.jpg"
+                        },
+                        {
+                            "id": "1156",
+                            "title": "其他男装",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/04/19/1461036645940872.jpg"
+                        }
+                    ]
+                },
+                {
+                    "title": "女装",
+                    "id": "1147",
+                    "titleImgUrl": "http://static.vsea.com.cn/shop_logo/2016/04/19/1461037422630212.png",
+                    "subItemList": [
+                        {
+                            "id": "1157",
+                            "title": "女士上衣",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/04/19/1461037933439855.jpg"
+                        },
+                        {
+                            "id": "1158",
+                            "title": "女士裤子",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/04/19/1461037891966466.jpg"
+                        },
+                        {
+                            "id": "1159",
+                            "title": "女士内衣",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/04/19/1461037905334839.jpg"
+                        },
+                        {
+                            "id": "1160",
+                            "title": "其他女装",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/04/19/1461037921803987.jpg"
+                        }
+                    ]
+                },
+                {
+                    "title": "鞋靴",
+                    "id": "1148",
+                    "titleImgUrl": "http://static.vsea.com.cn/shop_logo/2016/04/19/1461037509119128.png",
+                    "subItemList": [
+                        {
+                            "id": "1161",
+                            "title": "时尚女鞋",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/04/19/1461038166576390.jpg"
+                        },
+                        {
+                            "id": "1162",
+                            "title": "流行男鞋",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/04/19/1461038138699482.jpg"
+                        },
+                        {
+                            "id": "1163",
+                            "title": "情侣鞋",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/04/19/1461038153597570.jpg"
+                        }
+                    ]
+                },
+                {
+                    "title": "服装配饰",
+                    "id": "1149",
+                    "titleImgUrl": "http://static.vsea.com.cn/shop_logo/2016/04/19/1461037331660661.png",
+                    "subItemList": [
+                        {
+                            "id": "1164",
+                            "title": "精品手表",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/04/19/1461037732158438.jpg"
+                        },
+                        {
+                            "id": "1165",
+                            "title": "时尚眼镜",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/04/19/1461037638308690.jpg"
+                        },
+                        {
+                            "id": "1166",
+                            "title": "服饰配件",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/04/19/1461037658941407.jpg"
+                        },
+                        {
+                            "id": "1167",
+                            "title": "服饰内衣",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/04/19/1461037674404109.jpg"
+                        }
+                    ]
+                },
+                {
+                    "title": "箱包",
+                    "id": "1150",
+                    "titleImgUrl": "http://static.vsea.com.cn/shop_logo/2016/04/19/1461037402126423.png",
+                    "subItemList": [
+                        {
+                            "id": "1168",
+                            "title": "潮流女包",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/04/19/1461037827668311.jpg"
+                        },
+                        {
+                            "id": "1169",
+                            "title": "精品男包",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/04/19/1461037841301878.jpg"
+                        },
+                        {
+                            "id": "1170",
+                            "title": "功能箱包",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/04/19/1461037856117850.jpg"
+                        }
+                    ]
+                },
+                {
+                    "title": "家纺",
+                    "id": "1151",
+                    "titleImgUrl": "http://static.vsea.com.cn/shop_logo/2016/04/19/1461037496401504.png",
+                    "subItemList": [
+                        {
+                            "id": "1171",
+                            "title": "床上用品",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/04/19/1461038089775232.jpg"
+                        },
+                        {
+                            "id": "1172",
+                            "title": "家纺日用品",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/04/19/1461038101791508.jpg"
+                        }
+                    ]
+                },
+                {
+                    "title": "家用电器",
+                    "id": "1152",
+                    "titleImgUrl": "http://static.vsea.com.cn/shop_logo/2016/04/19/1461038392823119.png",
+                    "subItemList": [
+                        {
+                            "id": "1173",
+                            "title": "生活电器",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/04/19/1461037266117159.jpg"
+                        },
+                        {
+                            "id": "1174",
+                            "title": "厨房电器",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/04/19/1461037223759293.jpg"
+                        },
+                        {
+                            "id": "1175",
+                            "title": "个护健康",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/04/19/1461037241111925.jpg"
+                        },
+                        {
+                            "id": "1176",
+                            "title": "数码配件",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/04/19/1461037254658411.jpg"
+                        }
+                    ]
+                },
+                {
+                    "title": "个人美妆",
+                    "id": "1177",
+                    "titleImgUrl": "http://static.vsea.com.cn/shop_logo/2016/04/19/1461037526501997.png",
+                    "subItemList": [
+                        {
+                            "id": "1180",
+                            "title": "彩妆香水",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/04/19/1461034467579038.jpg"
+                        },
+                        {
+                            "id": "1181",
+                            "title": "面部护肤",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/04/19/1461034496204044.jpg"
+                        },
+                        {
+                            "id": "1182",
+                            "title": "洗发护发",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/04/19/1461038310342441.jpg"
+                        },
+                        {
+                            "id": "1183",
+                            "title": "化妆工具",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/04/19/1461034543543940.jpg"
+                        },
+                        {
+                            "id": "1184",
+                            "title": "身体护肤",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/04/19/1461034574227022.jpg"
+                        },
+                        {
+                            "id": "1185",
+                            "title": "口腔护理",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/04/19/1461034686427391.jpg"
+                        },
+                        {
+                            "id": "1186",
+                            "title": "女性护理",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/04/19/1461034725482564.jpg"
+                        }
+                    ]
+                },
+                {
+                    "title": "母婴用品",
+                    "id": "1178",
+                    "titleImgUrl": "http://static.vsea.com.cn/shop_logo/2016/04/19/1461037384934005.png",
+                    "subItemList": [
+                        {
+                            "id": "1187",
+                            "title": "宝宝用品",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/04/19/1461035186910990.jpg"
+                        },
+                        {
+                            "id": "1188",
+                            "title": "孕妇用品",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/04/19/1461035309651619.jpg"
+                        },
+                        {
+                            "id": "1189",
+                            "title": "孕婴营养",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/04/19/1461037791471344.jpg"
+                        },
+                        {
+                            "id": "1190",
+                            "title": "童装童鞋",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/04/19/1461035445327968.jpg"
+                        }
+                    ]
+                },
+                {
+                    "title": "居家百货",
+                    "id": "1179",
+                    "titleImgUrl": "http://static.vsea.com.cn/shop_logo/2016/04/19/1461037471840064.png",
+                    "subItemList": [
+                        {
+                            "id": "1191",
+                            "title": "生活日用",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/04/19/1461035518698744.jpg"
+                        },
+                        {
+                            "id": "1192",
+                            "title": "厨房用品",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/04/19/1461035556830278.jpg"
+                        },
+                        {
+                            "id": "1193",
+                            "title": "清洁用品",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/04/19/1461035587218748.jpg"
+                        },
+                        {
+                            "id": "1194",
+                            "title": "家居软装",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/04/19/1461035615773951.jpg"
+                        },
+                        {
+                            "id": "1195",
+                            "title": "宠物生活",
+                            "imgUrl": "http://static.vsea.com.cn/shop_logo/2016/04/19/1461035665454334.jpg"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "message": "",
+    "error_code": 1
+}
